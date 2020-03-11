@@ -14,6 +14,8 @@ Tasks in this project includes:
 -	Testing plan;
 -	Product video;
 -	Exhibition showcasing application;
+![screenshot](/website.png?raw=true "Optional Title")
+![screenshot](/ad.png?raw=true "Optional Title")
 
 As the project coordinator and the data scientist of the project, my works include:
 -	Maintain and monitor project plan and schedules.
@@ -23,3 +25,5 @@ As the project coordinator and the data scientist of the project, my works inclu
 -	Communicate with project members and provide administrative support to team.
 -	Create project management calendar 
 -	Research and manage data source.
+
+![screenshot](/flyer.png?raw=true "Optional Title")
